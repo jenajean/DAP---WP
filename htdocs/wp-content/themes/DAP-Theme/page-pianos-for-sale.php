@@ -46,7 +46,7 @@
 						<?php echo get_post_meta($post->ID, "pianos-for-sale", true);?>
 				</div>
 				
-				<div class="changing-content">
+				<div class="changing-content pianos">
 					<div id="how-we-sell" class="selected" class="group">
 						<?php echo get_post_meta($post->ID, "how-we-sell", true);?>
 					</div>
@@ -54,47 +54,86 @@
 					<div id="Fueurich-190-1983" class="group">
 						<?php echo get_post_meta($post->ID, "Fueurich-190-1983", true);?>
 						
-						<a
-						href="../../../images/Pianos-for-Sale/Feururich/David-Andersen-
-						Pianos-Feururich-1.jpg "><img
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
+						David-Andersen-Pianos-Feururich-1.jpg"><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-1.jpg" alt="Custom-Restoration-sm"
+						David-Andersen-Pianos-Feururich-1.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
 
-						<a
+						<a class="fancybox"
 						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
 						David-Andersen-Pianos-Feururich-2.jpg"> <img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-2.jpg" alt="Custom-Restoration-sm"
+						David-Andersen-Pianos-Feururich-2.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
 
-						<a
+						<a class="fancybox"
 						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
 						David-Andersen-Pianos-Feururich-3.jpg"><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-3.jpg" alt="Custom-Restoration-sm"
+						David-Andersen-Pianos-Feururich-3.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
 
-						<a
+						<a class="fancybox"
 						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
 						David-Andersen-Pianos-Feururich-4.jpg"><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-4.jpg" alt="Custom-Restoration-sm"
+						David-Andersen-Pianos-Feururich-4.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
 
-						<a
-						http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/David-
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/David-
 						Andersen-Pianos-Feururich-5.jpg"><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-5.jpg" alt="Custom-Restoration-sm"
+						David-Andersen-Pianos-Feururich-5.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
 						
 					</div>
 					<div id="Pearl-River-Grand-2006" class="group">
 						<?php echo get_post_meta($post->ID, "Pearl-River-Grand-2006", true);?>
 						
-							
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-4.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-4.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
 						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-5.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-5.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-6.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-6.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-7.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-7.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-8.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-8.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River
+						-Grand/David-Andersen-PianosPearl-River-Grand-2006-9.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Pearl-River-
+						Grand/David-Andersen-PianosPearl-River-Grand-2006-9.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
 					</div>
 						
 					<div id="Steinway-B-1894" class="group">

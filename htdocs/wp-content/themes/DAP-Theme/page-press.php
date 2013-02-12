@@ -199,25 +199,7 @@
 								</p>
 							</div>
 						</div>	
-						<div class="article group">
-							<div class="excerpt-image">
-								<img src="http://www.foodwecook.com/images/press/articles/Mordecai-Shehori.jpg" alt="thumbnail" />
-							</div>
-							<div class="excerpt">
-								<?php
-								$post_id = 191;
-								$queried_post = get_post($post_id);
-								?>
-								<h3><?php echo $queried_post->post_title; ?></h3>
-								<?php echo $queried_post->post_content; ?>
-								<p class="read-more">
-									<a class="fancybox-iframe"
-									href="http://docs.google.com/viewer?url=http%3A%2F%
-									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
-									2FPDFs%2Fmordecai-shehori.pdf&embedded=true">Read more...</a>
-								</p>
-							</div>
-						</div>
+	
 						<div class="article group">
 							<div class="excerpt-image">
 								<img src="http://www.foodwecook.com/images/press/articles/Mordecai-Shehori.jpg" alt="thumbnail" />

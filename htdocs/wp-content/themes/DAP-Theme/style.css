@@ -148,6 +148,13 @@ padding-top:2em;
 	font-size:1.2em;
 
 	}
+	.main-nav li a:hover {
+		color:white;
+	}
+	
+	.main-nav li a.selected:hover {
+		color:black;
+	}
 
 .first-main-nav-item, .first-sub-nav-item {
 	border-left:none !important; 
@@ -170,6 +177,9 @@ padding-top:2em;
 	.sub-nav a{
 		font-family: "myriad-pro-condensed";
 		font-size: 1.05em;
+	}
+	.sub-nav a:hover {
+		color:white;
 	}
 .about-sub-nav {
 	margin-left:16.2em;
@@ -223,7 +233,9 @@ padding-top:2em;
 		font-family:"myriad-pro";
 		font-size:1em;
 	}
-	
+		.side-nav li a:hover {
+			color:rgb(206, 185, 147);
+		}
 		
 .central-section {
 	width:544px;
@@ -307,6 +319,14 @@ padding-top:2em;
 		padding: .4em 1em .5em 3em;
 		height: 230px;
 	}
+		.changing-content.pianos img{
+			height: auto;
+			width: 425px;
+			margin: 0 auto;
+			float: none;
+			padding: 1em;
+			display: block;
+}
 	#static-content-contact {
 		text-align:center;
 	}
@@ -385,8 +405,8 @@ aside {
 		padding-right: 5px;
 		font-size: .75em;
 		text-align: right;
-width: 75px;
-margin-top: -9px;
+		width: 75px;
+		margin-top: -9px;
 
 	}
 	.audio-player {
