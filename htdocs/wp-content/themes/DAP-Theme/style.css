@@ -1,0 +1,442 @@
+/* -----strictly js----- */
+.hiding {
+	display:none;
+}
+.selected {
+	font-weight:bold;
+
+}
+.main-nav a.selected {
+	padding-bottom:30px;
+	background-image: url(http://www.foodwecook.com/images/dap-selected-graphic.png);
+	background-position:bottom center;
+	background-repeat: no-repeat;
+	min-width: 60px;
+	display: block;
+	
+}
+.selected p{
+	font-weight:normal;
+}
+.changing-content > div.selected {
+	display:block;			
+}
+.sub-nav a.selected{
+	color:white;
+	font-weight:normal;
+}
+.side-nav li a.selected {
+	background-image: url(http://www.foodwecook.com/images/dap-side-nav-selected.png);
+	background-position: right center;
+	background-repeat: no-repeat;
+	padding-right: 20px;
+	background-size: 15px 20px;
+	display:block;
+	color:rgb(206, 185, 147);
+	font-weight:normal;
+}
+
+
+/* -----GENERAL STYLES/APPLIED THROUGHOUT----- */
+
+body {
+	background:black url(http://www.foodwecook.com/images/DAP-Background_1_sm.jpg) no-repeat;
+	margin:0 auto;
+	background-position-y:115px;
+	height: auto !important;
+}
+* {
+	color:black;
+	/* font-family: "myriad-pro-condensed"; bold is font weight 700*/
+}
+h2, h3, h4, h5, h5, ul, li, a, p {
+	font-family: "myriad-pro";
+
+}
+h3 {	
+	text-transform: uppercase;
+	font-weight: normal;
+	padding-left:2.8em;
+	}
+h1 {
+	border-top:1px solid black;
+	padding-top:.5em;
+	text-align:center;
+	margin:0 auto;
+	display:block;
+	width:800px;
+
+}
+h1 a {
+	font-family: "ff-market-web";
+	text-shadow: 2px 2px #C69C6D;
+	font-size: 1.2em;
+}
+a {
+	font-weight:normal;
+	text-decoration:none;
+}
+p{	
+	padding: 0 3em;
+}
+h2, h3, h4, h5, h6 {
+	padding-left:2.8em;
+	margin-top:0;
+	padding-top:.5em;
+}
+ul {
+
+	padding-right:1em;
+}
+.wrap {
+	margin:0 auto;
+	width: 980px;
+}
+/* CLEAR-FIX	 */
+.group:before,
+.group:after {
+    content:"" !important;
+    display:table !important;
+}
+.group:after {
+    clear:both !important;
+}
+.group {
+    zoom:1 !important; /* For IE 6/7 (trigger hasLayout) */
+} 
+/* END CLEAR-FIX*/
+
+.cite {
+font-weight: bold;
+padding-bottom: 2.2em;
+display: inline-block;
+font-style: italic;
+}
+
+/* -----TOP OF PAGE----- */
+
+.top-background {
+	height: 231px;
+	background:url(images/dap-elements-header-bg.jpg) repeat-x;/* header-bg.png */
+	border-bottom: 1px solid rgb(146, 137, 132);
+}
+
+header {
+padding-top:2em;
+
+}
+
+.main-nav {
+	text-align: center;
+	text-transform:uppercase;
+}
+.main-nav ul{
+	border-top:1px solid black;
+
+}
+.main-nav ul, .main-nav li {
+	display:inline-block;
+}
+.main-nav li {
+	list-style:none;
+	padding:0 20px;
+	border-left:1px solid black;
+	padding-top:.5em;
+}
+.main-nav li a {
+	font-family: "myriad-pro-condensed";
+	font-size:1.2em;
+
+	}
+
+.first-main-nav-item, .first-sub-nav-item {
+	border-left:none !important; 
+}
+#sub-nav-wrap {
+	margin-top:-1em;
+}
+.sub-nav{
+	font-family:"myriad-pro-condensed";
+}
+.sub-nav ul, .sub-nav li{
+	display:inline-block;
+}
+.sub-nav li {
+	list-style:none;
+	padding:0 20px;
+	border-left:1px solid black;
+	
+}
+	.sub-nav a{
+		font-family: "myriad-pro-condensed";
+		font-size: 1.05em;
+	}
+.about-sub-nav {
+	margin-left:16.2em;
+}
+.piano-services-sub-nav {
+	margin-left:21.5em;
+ }
+.side-nav img {
+	width: 190px;
+	border: 3px solid white;
+	margin-top: 10px;
+}
+
+
+/* -----CENTRAL PAGE----- */
+#dynamic-content {
+	float:left;
+}
+.side-nav-section {
+	width:210px;
+	display:inline-block;
+	vertical-align:top;
+	float:left;
+}
+	.side-nav-section p {
+		color:white;
+		padding: 0 1em;
+	}
+	.side-nav {
+		background-color:rgba(0,0,0,0.5);
+		padding: 1em 0 1em 0;
+		width:200px;
+		margin-top:3em;
+
+	}
+	.side-nav ul {
+		border-left:1px solid white;
+		margin-left: .6em;
+		padding-left: .5em;
+	}
+	.side-nav li {
+		color:white;
+		list-style:none;
+		padding:.6em 0;
+		text-align:right;
+
+	
+	}
+	.side-nav li a, .side-nav a{
+		color:white;
+		font-family:"myriad-pro";
+		font-size:1em;
+	}
+	
+		
+.central-section {
+	width:544px;
+	margin-left:-10px;
+	display:inline-block;
+	float:left;
+	padding-bottom: 2em;
+}
+.central-section-content:after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: 10;
+		box-shadow: inset 0 0 15px 1px rgb(100,100,100);
+		border-radius: 10px;}
+	.central-section-content {
+		position:relative;
+		width:550px;
+		min-height: 450px;
+		background-color:rgb(255, 250, 242);
+/* 
+		background-color:white;
+ */
+		margin-top:2em;
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+		border-radius: 10px; /* future proofing */
+		-khtml-border-radius: 10px; /* for old Konqueror browsers */
+		padding-bottom: 2em;
+	}
+	.static-content {
+		background-color: rgb(219, 219, 219);
+		-moz-border-radius: 10px 10px 0 0;
+		-webkit-border-radius: 10px 10px 0 0;
+		border-radius: 10px 10px 0 0; /* future proofing */
+		-khtml-border-radius: 10px 10px 0 0; /* for old Konqueror browsers */
+	}
+	
+	.static-content h2{
+		font-size: 1em;
+		font-weight: normal;
+		text-transform: uppercase;
+		font-family: "myriad-pro-condensed";
+		margin: 0;
+	}
+	.static-content img {
+		float:left;
+		padding:1em;
+		height:140px;
+	}
+	.static-content p {
+		font-weight:bold;
+		margin-top:0;
+		padding-top:.5em;
+		padding-bottom:1em;
+		font-family: "myriad-pro-condensed";
+		font-style:italic;
+		font-size: 1.3em;
+
+	}
+	
+	.changing-content {
+		position:relative; /* to show above the the :after class for cent-sect-content */
+		z-index:11;
+	
+	}
+	
+	.changing-content ul {
+/* 
+		list-style-position: inside;
+ */
+		display:block;
+		margin-left: 4em;
+		margin-right: 1em;
+		}
+	.changing-content img {
+		float:left;
+		padding: .4em 1em .5em 3em;
+		height: 230px;
+	}
+	#static-content-contact {
+		text-align:center;
+	}
+	#static-content-contact-img {
+		padding: 1em 1em 0;
+		width:95%;
+		height:auto;
+		float:none;
+	}
+	
+.read-more a {
+	color: rgb(70, 136, 189);
+}
+
+
+/* FORM BELOW */
+
+.form-headers {
+font-weight: normal;
+font-family: "myriad-pro";
+vertical-align: top;
+width: 78px;
+display: inline-block;
+
+}
+
+#contact_form {
+margin: 0 auto;
+width: 300px;
+padding-top: 15px;
+}
+
+#button-wrapper {
+	margin:0 auto;
+	width: 300px;
+	text-align:center;
+
+}
+.button {
+	display:inline;
+}
+
+#contact h3{
+padding:1.5em 1.5em 0 1.5em;
+text-transform:none;
+}
+/* FORM ABOVE */
+	
+aside {
+	margin-top:2em;
+	float:right;
+	display:inline-block;
+}	
+.audio-section {
+	
+}
+
+	.listen-prompt {
+		margin-top: 1em;
+		width:220px;
+		height:79px;
+		padding: 5px 0;
+		margin-bottom: 10px;
+		background-image: url(http://www.foodwecook.com/images/Listen-Prompt.png);
+		background-repeat:no-repeat;
+		
+	}
+	.listen-prompt h2{
+		padding: 0;
+		text-align: center;
+		margin: 0;
+	}
+	.listen-prompt a{
+		float:right;
+		color: rgb(70, 136, 189);
+		padding-right: 5px;
+		font-size: .75em;
+		text-align: right;
+width: 75px;
+margin-top: -9px;
+
+	}
+	.audio-player {
+	
+	}
+	
+.article, .teaching {
+	padding: .5em 0;
+	border-top: 1px solid gray;
+}	
+#Articles .article h3, #teaching-materials .teaching h3 {
+	padding: 0;
+	margin: 0;
+	padding-left: 1em;
+	font-size: 1em;
+}
+#Articles .article p, #teaching-materials .teaching p {
+	padding: 0 1em;
+	font-size:.85em;
+	margin: .2em;
+}
+#Articles .article img, #teaching-materials .teaching img {
+
+}
+.excerpt-image {
+	float:left;
+}
+.excerpt-image img{
+	height:100px;
+	width:100px;
+	border:10px solid white;
+	padding:0;
+	margin:.1em;
+}
+
+.bigger-p {
+font-size:1.2em;}
+	
+/* -----BOTTOM OF PAGE----- */
+
+.bottom-background {
+	background-color:black;
+	color:white;
+	height:200px;margin-top: 50px;
+	border-top: 1px solid #ccc;
+	
+}
+footer {
+	
+}
+
+
+
