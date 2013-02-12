@@ -225,6 +225,27 @@
 					
 					
 					<div id="teaching-materials">
+					
+						<div class="teaching group">
+							<div class="excerpt-image group">
+								<img src="http://www.foodwecook.com/images/press/teaching/Your-Tool-Thumb.png" alt="thumbnail" />
+							</div>
+							<div class="excerpt">
+								<?php
+								$post_id = 339;
+								$queried_post = get_post($post_id);
+								?>
+								<h3><?php echo $queried_post->post_title; ?></h3>
+								<?php echo $queried_post->post_content; ?>
+							<p class="read-more">
+								<a class="fancybox-iframe"
+								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
+								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%
+								2FtuningclassKC07ptg.pdf&embedded=true">View Presentation...</a>
+							</p>
+							</div>
+						</div>
+					
 						<div class="teaching group">
 						<div class="excerpt-image">
 								<img src="http://www.foodwecook.com/images/press/teaching/Soul-Craft-Chicago-sm.jpg" alt="thumbnail" />
@@ -321,6 +342,9 @@
 							</p>
 							</div>
 						</div>
+						
+
+						
 					</div>
 					
 				</div>

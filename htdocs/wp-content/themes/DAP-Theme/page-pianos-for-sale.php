@@ -34,7 +34,7 @@
 						<li><a href="#Steinway-B-1894" rel="Steinway-B-1894">Steinway “B” (6’11”) 1894</a></li>
 						<li><a href="#Steinway-Louis-XV-1937" rel="Steinway-Louis-XV-1937">Steinway Louis XV “S” 1937</a></li>
 						<li><a href="#Steinway-Louis-XV-1925" rel="Steinway-Louis-XV-1925">Steinway Louis XV “M” 1925</a></li>
-						<li><a href="#1928-Steinway-model-L-5-11" rel="1928-Steinway-model-L-5-11">1928 Steinway model “L” (5’11”)</a></li>
+						<li><a href="#1928-Steinway-model-L-5-11" rel="1928-Steinway-model-L-5-11">Steinway model “L” (5’11”) 1928</a></li>
 						<li><a href="#Yamaha-U3-1987" rel="Yamaha-U3-1987">Yamaha U3 1987</a></li>
 					</ul>
 				</nav>
@@ -137,12 +137,98 @@
 					</div>
 						
 					<div id="Steinway-B-1894" class="group">
-					
+
 						<?php echo get_post_meta($post->ID, "Steinway-B-1894", true);?>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-1.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-1.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-2.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-2.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-3.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-3.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-4.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-4.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-5.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-5.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-6.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-B/
+						David-Andersen-Pianos-Steinway-B-6.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
 					</div>
 					
 					<div id="Steinway-Louis-XV-1937" class="group">
 						<?php echo get_post_meta($post->ID, "Steinway-Louis-XV-1937", true);?>
+						
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-1.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-1.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-2.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-2.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-3.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-3.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-4.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-4.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-5.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-5.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-6.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Steinway-
+						Louis-XV-S/David-Andersen-Pianos-Steinway-Louis-XV-S-6.jpg"
+						alt="Pearl River Grand 2006" class="fancybox"/></a>
+						
 					</div>
 					
 					<div id="Steinway-Louis-XV-1925" class="group">
@@ -156,6 +242,44 @@
 					
 					<div id="Yamaha-U3-1987" class="group">
 						<?php echo get_post_meta($post->ID, "Yamaha-U3-1987", true);?>
+						
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-1.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-1.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-2.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-2.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-3.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-3.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-4.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-4.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						<a class="fancybox"
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-5.jpg"><img
+						src="http://www.foodwecook.com/images/Pianos-for-Sale/Yahmaha-U3/
+						David-Andersen-Pianos-Yahmaha-U3-5.jpg" alt="Pearl River Grand
+						2006" class="fancybox"/></a>
+						
+						
 					</div>
 					
 				</div> <!-- end changing content -->
