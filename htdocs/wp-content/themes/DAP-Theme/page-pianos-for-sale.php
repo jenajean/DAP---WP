@@ -29,6 +29,7 @@
 				<nav class="side-nav">
 					<ul>
 						<li class="first-side-nav-item"><a href="#how-we-sell" rel="how-we-sell" class="selected">How We Sell</a></li>
+						<li><a href="#Piano-Rentals" rel="Piano-Rentals">Piano Rental</a></li>
 						<li><a href="#Fueurich-190-1983" rel="Fueurich-190-1983">Fueurich 190 1983</a></li>
 						<li><a href="#Pearl-River-Grand-2006" rel="Pearl-River-Grand-2006">Pearl River Grand 2006</a></li>
 						<li><a href="#Steinway-B-1894" rel="Steinway-B-1894">Steinway “B” (6’11”) 1894</a></li>
@@ -42,13 +43,17 @@
 			<div class="central-section">
 				<div class="central-section-content">
 	
-				<div class="static-content">
+				<div class="static-content group">
 						<?php echo get_post_meta($post->ID, "pianos-for-sale", true);?>
 				</div>
 				
 				<div class="changing-content pianos">
 					<div id="how-we-sell" class="selected" class="group">
 						<?php echo get_post_meta($post->ID, "how-we-sell", true);?>
+					</div>
+					
+					<div id="Piano-Rentals" class="group">
+						<?php echo get_post_meta($post->ID, "Piano-Rentals", true);?>
 					</div>
 				
 					<div id="Fueurich-190-1983" class="group">

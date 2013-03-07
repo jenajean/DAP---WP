@@ -52,7 +52,8 @@
 			<div class="central-section">			
 				<div class="central-section-content">
 	
-					<div class="static-content">
+					<div class="static-content group">
+						<img src="http://www.foodwecook.com/images/Things-you-should-know.jpg" alt="the Atelier"/>
 						<?php echo get_post_meta($post->ID, "piano-services-Things-you-should-know", true);?>
 					</div>
 					<div class="changing-content">

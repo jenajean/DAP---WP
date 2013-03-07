@@ -40,7 +40,7 @@
 					</div>
 				<div class="central-section">
 					<div class="central-section-content">
-						<div class="static-content">
+						<div class="static-content group">
 							<img/>
 							<h2>What People Say</h2>
 							<p>Our Success is defined by those we serve; the appreciation and praise of our clients gives our work meaning...</p>

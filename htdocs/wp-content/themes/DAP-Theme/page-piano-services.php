@@ -44,8 +44,8 @@
 			<div class="central-section">
 				<div class="central-section-content">
 	
-				<div class="static-content">
-					<img/>
+				<div class="static-content group">
+					<img src="http://www.foodwecook.com/images/David-working.jpg" />
 					<?php echo get_post_meta($post->ID, "piano-services", true);?>
 				</div>
 				<div class="changing-content">

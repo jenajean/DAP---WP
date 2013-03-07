@@ -2,7 +2,7 @@
 	/* Template Name: Press */
 ?>
 
-<?php get_header(); the_post(); ?>
+<?php get_header(); the_post(); the_post_thumbnail(); ?>
 	
 	
 	<nav class="main-nav">
@@ -39,7 +39,7 @@
 			</div>
 			<div class="central-section">
 			<div class="central-section-content">
-				<div class="static-content">
+				<div class="static-content group">
 					<h2>Press</h2>
 				</div>
 				<div class="changing-content">
@@ -65,6 +65,7 @@
 								&embedded=true" class="fancybox-iframe">Read more...</a></p>
 							</div>
 						</div>
+						
 						<div class="article group">
 							<div class="excerpt-image">
 								<img src="http://www.foodwecook.com/images/press/articles/studio_360.jpg" alt="thumbnail" />
@@ -232,6 +233,27 @@
 							</div>
 							<div class="excerpt">
 								<?php
+								$post_id = 353;
+								$queried_post = get_post($post_id);
+								?>
+								<h3><?php echo $queried_post->post_title; ?></h3>
+								<?php echo $queried_post->post_content; ?>
+							<p class="read-more">
+								<a class="fancybox-iframe"
+								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
+								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%2FCLASS-
+								OUTLINE-2011-PTG-Natl.pdf&embedded=true">View
+								Class Outlines...</a>
+							</p>
+							</div>
+						</div>
+
+						<div class="teaching group">
+							<div class="excerpt-image group">
+								<img src="http://www.foodwecook.com/images/press/teaching/Your-Tool-Thumb.png" alt="thumbnail" />
+							</div>
+							<div class="excerpt">
+								<?php
 								$post_id = 339;
 								$queried_post = get_post($post_id);
 								?>
@@ -286,7 +308,7 @@
 						</div>
 						<div class="teaching group">
 							<div class="excerpt-image">
-								<img src="http://www.foodwecook.com/images/press/teaching/Custom-Restoration-sm.jpg" alt="thumbnail" />
+								<img src="http://www.foodwecook.com/images/press/teaching/Dave-and-jonah-sm.jpg" alt="thumbnail" />
 							</div>
 							<div class="excerpt">
 								<?php
@@ -305,7 +327,7 @@
 						</div>
 						<div class="teaching group">
 							<div class="excerpt-image group">
-								<img src="http://www.foodwecook.com/images/press/teaching/Custom-Restoration-sm.jpg" alt="thumbnail" />
+								<img src="http://www.foodwecook.com/images/press/teaching/soul-of-craft-sm.jpg" alt="thumbnail" />
 							</div>
 							<div class="excerpt">
 								<?php

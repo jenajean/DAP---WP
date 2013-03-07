@@ -51,7 +51,7 @@
 			</div>
 			<div class="central-section">
 				<div class="central-section-content">
-					<div class="static-content">
+					<div class="static-content group">
 						<h2>Heroes and Mentors</h2>
 						<p>
 							I want to honor the people in the world of pianos that have inspired, challenged, intimidated, and taught me.

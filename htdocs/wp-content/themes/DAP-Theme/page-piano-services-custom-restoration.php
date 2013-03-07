@@ -43,7 +43,7 @@
 		</div>
 		<div class="central-section">			
 			<div class="central-section-content">
-				<div class="static-content">
+				<div class="static-content group">
 					<?php echo get_post_meta($post->ID, "custom-restoration", true);?>
 					
 				</div>

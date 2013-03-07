@@ -34,7 +34,7 @@
 			</div>
 			<div class="central-section">
 				<div class="central-section-content">
-					<div class="static-content" id="static-content-contact">
+					<div class="static-content group" id="static-content-contact">
 						<img id="static-content-contact-img" src="http://www.foodwecook.com/images/David-Andersen-Pianos_Atelier-Panorama.jpg" alt="David-Andersen-Pianos_Atelier-Panorama" />
 						<h2></h2>
 					</div><!-- end static -->
