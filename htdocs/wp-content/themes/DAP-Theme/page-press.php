@@ -81,7 +81,7 @@
 						</div>
 						<div class="article group">
 							<div class="excerpt-image">
-								<img src="http://www.foodwecook.com/images/press/articles/PTJ-2009-Cover.png" alt="thumbnail" />
+								<img src="http://www.foodwecook.com/images/press/articles/ptg-build-great-site-1.png" alt="thumbnail" />
 							</div>
 							<div class="excerpt">
 								<?php
@@ -229,7 +229,7 @@
 					
 						<div class="teaching group">
 							<div class="excerpt-image group">
-								<img src="http://www.foodwecook.com/images/press/teaching/Your-Tool-Thumb.png" alt="thumbnail" />
+								<img src="http://www.foodwecook.com/images/press/teaching/class-outlines.jpg" alt="thumbnail" />
 							</div>
 							<div class="excerpt">
 								<?php

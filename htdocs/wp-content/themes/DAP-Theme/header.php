@@ -60,8 +60,13 @@
 	
 	<script type="text/javascript" src="http://www.foodwecook.com/html5shiv.js"></script>
 	<script type="text/javascript" src="http://www.foodwecook.com/html5shiv-printshiv.js"></script>
-	
-	<script type="text/javascript" src="http://www.foodwecook.com/script.js"></script>
+	<!--[if !IE 8]><!-->
+    <script type="text/javascript" src="http://www.foodwecook.com/script.js"></script>
+	<!--<![endif]-->
+	<!--[if IE 8]><!-->
+    <script type="text/javascript" src="http://www.foodwecook.com/IE8_script.js"></script>
+	<!--<![endif]-->
+
 	<script type="text/javascript" src="http://www.foodwecook.com/modernizr.js"></script>
 	
 <!-- 

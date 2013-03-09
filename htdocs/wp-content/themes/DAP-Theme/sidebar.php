@@ -7,7 +7,12 @@
 			<h2>Listen!</h2>
 			<a class="fancybox-iframe" href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.foodwecook.com%2Fimages%2Ftech-specs.pdf&embedded=true">technical specifications</a>		</div>
 		<div class="audio-player">
-		<?php echo do_shortcode("[hmp_player]"); ?>
+				<?php $recent = new WP_Query("page_id=424"); while($recent->have_posts())
+				: $recent->the_post();?>
+				       <!-- <h3><?php the_title(); ?></h3> -->
+				       <?php the_content(); ?>
+				<?php endwhile; ?>	
+
 		</div>
 	</div>
     	

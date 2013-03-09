@@ -198,8 +198,8 @@ padding-top:2em;
 	margin-left:21.5em;
  }
 .side-nav img {
-	width: 190px;
-	border: 3px solid white;
+	width: 183px;
+	border: 1px solid white;
 	margin-top: 10px;
 }
 
@@ -268,7 +268,7 @@ padding-top:2em;
 		position:relative;
 		width:550px;
 		min-height: 450px;
-		background-color:rgb(255, 250, 242);
+		background-color:rgb(252, 252, 252);
 /* 
 		background-color:white;
  */
@@ -293,6 +293,9 @@ padding-top:2em;
 		text-transform: uppercase;
 		font-family: "myriad-pro-condensed";
 		margin: 0;
+	}
+	.static-content a{
+		font-size:.9em;
 	}
 	.static-content img {
 		float:left;
@@ -422,9 +425,7 @@ aside {
 		line-height:12px;
 
 	}
-	.audio-player {
 	
-	}
 	
 .article, .teaching {
 	padding: .5em 0;
@@ -484,9 +485,60 @@ h3.piano-brand:hover {
 	min-width: 1000px;					
 	
 }
-footer {
-	
+footer p, footer h4, footer span {
+	color:rgb(192, 190, 187);
+}
+#copyright p {
+		color:rgb(105, 105, 103);
+		clear:both;
+		padding:0;
+		font-size:.9em;
+		
+
 }
 
+#copyright {
 
+	padding-left: 2.5em;
+	border-bottom: 1px solid rgb(37, 37, 37);
 
+}
+#ajd_colophon {
+		margin: 0 auto;
+		width: 350px;
+		text-align:center;
+}
+#ajd_colophon p{
+	clear:both;
+	color:rgb(105, 105, 103);
+	padding:0;
+	font-size:.9em;
+	padding-bottom:10px;
+}
+#ajd_colophon a {
+	color:rgb(106, 133, 155);
+}
+#footer_left_side p, #footer_right_side p{
+	margin: 0;
+}
+#footer_left_side {
+	color:rgb(192, 190, 187);
+	width:400px;
+	float:left;
+}
+#footer_right_side {
+	color:rgb(192, 190, 187);
+	width:400px;
+	float:right;
+}
+.floated-footers {
+	padding-top:10px;
+	padding-bottom: 60px;
+}
+footer h4{
+	font-weight: normal;
+	font-size: 1.2em;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding-left: 2.5em;
+}
