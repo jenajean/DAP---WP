@@ -8,7 +8,7 @@
 						
 						<p>	on the West side of Los Angeles, CA
 						<br />
-						Call to make an appointment to visit the showroom  <br /> 
+						Call to make an appointment to visit the showroom -  
 							<a href="tel:310-391-4360">(310) 391-4360</a>
 						</p>
 				</div>

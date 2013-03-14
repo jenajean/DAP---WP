@@ -91,7 +91,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2FBuildGreatWebsitept1.pdf&embedded=true">Read
@@ -112,7 +112,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.foodwecook.com%2Fimages%2Fpress%
 									2Farticles%2FPDFs%2Fdavid-andersen-ptg-build-a-great-website-google-pt2.pdf&embedded=true"
 									>Read more...</a>
@@ -131,7 +131,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>	
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2Fdavid-andersen-Secrets-from-the-Aural-tuning-
@@ -151,7 +151,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>	
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2Fdavid-andersen-ost-piano-technicians-journal-
@@ -172,7 +172,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>	
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2FLA-City-Beat-Article.pdf&embedded=true">Read
@@ -192,7 +192,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>	
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2FFor-the-love-of-piano-MarVistaNewsArticle.pdf
@@ -213,7 +213,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>	
 								<p class="read-more">
-									<a class="fancybox-iframe"
+									<a class="fancybox-iframe" target="_blank"
 									href="http://docs.google.com/viewer?url=http%3A%2F%
 									2Fwww.foodwecook.com%2Fimages%2Fpress%2Farticles%
 									2FPDFs%2Fjazzsalons.pdf&embedded=true">Read
@@ -239,7 +239,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%2FCLASS-
 								OUTLINE-2011-PTG-Natl.pdf&embedded=true">View
@@ -260,7 +260,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%
 								2FtuningclassKC07ptg.pdf&embedded=true">View Presentation...</a>
@@ -280,7 +280,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%
 								2FPHOENIX%20ALL-DAY1-08.pdf&embedded=true">View Presentation</a>
@@ -300,7 +300,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.foodwecook.com%2Fimages%2Fpress%
 								2Fteaching%2FPDFs%2FAnaheim%20powerpt08-customRestoration.pdf&embedded=true">View Presentation</a>
 							</p>
@@ -318,7 +318,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%2FArt%
 								26EstheticsofVoicing1.1.pdf&embedded=true">View Presentation</a>
@@ -337,7 +337,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%
 								2FPHOENIX%20ALL-DAY1-08.pdf&embedded=true">View Presentation</a>
@@ -357,7 +357,7 @@
 								<h3><?php echo $queried_post->post_title; ?></h3>
 								<?php echo $queried_post->post_content; ?>
 							<p class="read-more">
-								<a class="fancybox-iframe"
+								<a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
 								foodwecook.com%2Fimages%2Fpress%2Fteaching%2FPDFs%
 								2FtuningclassKC07ptg.pdf&embedded=true">Read more...</a>

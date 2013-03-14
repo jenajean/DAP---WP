@@ -480,7 +480,8 @@ h3.piano-brand:hover {
 .bottom-background {
 	background-color:black;
 	color:white;
-	height:200px;margin-top: 50px;
+
+	margin-top: 50px;
 	border-top: 1px solid #ccc;
 	min-width: 1000px;					
 	
