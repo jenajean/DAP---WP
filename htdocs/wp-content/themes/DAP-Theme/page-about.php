@@ -47,7 +47,7 @@
 			<div class="central-section">
 				<div class="central-section-content">
 					<div class="static-content group">
-						<img src="http://www.foodwecook.com/images/about-david-andersen-pianos-main-pic.jpg" />
+						<img src="http://www.foodwecook.com/images/about-david-andersen-pianos-main-pic.jpg" alt="david andersen"/>
 						<h2>About Us</h2>
 						<p>These are my honored colleagues; they have mentored, taught, and "been there" along the way; I'm grateful to all of them.</p>
 					</div><!-- end static section -->

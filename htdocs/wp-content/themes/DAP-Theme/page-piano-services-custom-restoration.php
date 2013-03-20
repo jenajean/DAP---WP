@@ -36,7 +36,9 @@
 				<ul>
 						<li class="first-side-nav-item"><a href="#piano-services-custom-restoration" rel="piano-services-custom-restoration" class="selected">Custom Restoration</a></li>
 						<li><a href="#ptd" rel="ptd">Precision Touch Design (PTD) by Stanwood</a></li>
+<!-- 
 						<li><a href="#sala" rel="sala">Stanwood Adjustable Leverage Action, or SALA</a></li>
+ -->
 						<li><a href="#erwin-soundboard" rel="erwin-soundboard">Soundboards by Dale Erwin</a></li>
 				</ul>
 			</nav>
@@ -56,10 +58,12 @@
 							<?php echo get_post_meta($post->ID, "ptd", true);?>
 					</div>
 					
-					<div id="sala">
+					<!-- 
+<div id="sala">
 							<?php echo get_post_meta($post->ID, "sala", true);?>
 					</div>
 					
+ -->
 					<div id="erwin-soundboard">
 							<?php echo get_post_meta($post->ID, "erwin-soundboard", true);?>
 					</div>

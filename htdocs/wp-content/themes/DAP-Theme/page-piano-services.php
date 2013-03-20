@@ -45,7 +45,7 @@
 				<div class="central-section-content">
 	
 				<div class="static-content group">
-					<img src="http://www.foodwecook.com/images/David-working.jpg" />
+					<img src="http://www.foodwecook.com/images/David-working.jpg" alt="David Andersen tuning"/>
 					<?php echo get_post_meta($post->ID, "piano-services", true);?>
 				</div>
 				<div class="changing-content">

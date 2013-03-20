@@ -12,13 +12,14 @@ $(function() {
 			$(container + ' a').each(function(){
 				$cur_link = $(this);
 				var href = $cur_link.attr('href');
-				//console.log("href: " + href);//test code
-				$cur_link.attr('rel', href);
-				//console.log("rel: " + $cur_link.attr('rel'));//test code
-				$cur_link.attr('href', '#');
-				//console.log("final href: " + $cur_link.attr('href'));//test code
-				$container.addClass("sanitized");
-				//console.log("Links are sanitized");//test code	
+					//console.log("href: " + href);//test code
+				if(href != '#'){
+					$cur_link.attr('rel', href);
+					//console.log("rel: " + $cur_link.attr('rel'));//test code
+					$cur_link.attr('href', '#');
+					//console.log("final href: " + $cur_link.attr('href'));//test code
+				}
+				
 			});
 	}
 

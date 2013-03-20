@@ -4,9 +4,6 @@
 <head>
 	<meta charset="<?php bloginfo('charset'); ?>" />
 	
-	<?php if (is_search()) { ?>
-	   <meta name="robots" content="noindex, nofollow" /> 
-	<?php } ?>
 
 	<title>
 		   <?php
@@ -29,21 +26,21 @@
 		   ?>
 	</title>
 	
-	<link rel="stylesheet" type="text/css" href="http://www.foodwecook.com/style.css" />  
 	
 
-	
-			<!--[if lt IE 9]>
-		<link rel="stylesheet" type="text/css" href="css/ie8_and_below.css" />
-	<![endif]-->
-	
-	<!--[if lte IE 8]>
-		<link rel="stylesheet" type="text/css" href="css/ie8_and_below.css" />
-	<![endif]-->
+
 	
 	<link rel="shortcut icon" href="/favicon.ico">
 	
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+		
+			<!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/ie8-and-down.css" />
+	<![endif]-->
+	
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/ie8-and-down.css" />
+	<![endif]-->
 	
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
@@ -69,23 +66,7 @@
 
 	<script type="text/javascript" src="http://www.foodwecook.com/modernizr.js"></script>
 	
-<!-- 
-	FANCY BOX BELOW	
- -->
-	<!-- 
-<link rel="stylesheet" href="http://www.foodwecook.com/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="http://www.foodwecook.com/fancybox/jquery.fancybox.pack.js"></script>
- -->
-    
-<!-- 
-    <script type="text/javascript">
-	$(document).ready(function() {
-		$(".fancybox").fancybox({'type':'iframe','frameWidth': 680,
-                'frameHeight':495,});
-	
-	});
-	</script>
- -->
+
 </head>
 
 

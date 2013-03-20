@@ -48,7 +48,7 @@
 				</div>
 				
 				<div class="changing-content pianos">
-					<div id="how-we-sell" class="selected" class="group">
+					<div id="how-we-sell" class="selected group">
 						<?php echo get_post_meta($post->ID, "how-we-sell", true);?>
 					</div>
 					
@@ -60,8 +60,8 @@
 						<?php echo get_post_meta($post->ID, "Fueurich-190-1983", true);?>
 						
 						<a class="fancybox"
-						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-1.jpg"><img
+						href='http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
+						David-Andersen-Pianos-Feururich-1.jpg'><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
 						David-Andersen-Pianos-Feururich-1.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
@@ -81,8 +81,7 @@
 						class="fancybox"/></a>
 
 						<a class="fancybox"
-						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
-						David-Andersen-Pianos-Feururich-4.jpg"><img
+						href="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/David-Andersen-Pianos-Feururich-4.jpg"><img
 						src="http://www.foodwecook.com/images/Pianos-for-Sale/Feururich/
 						David-Andersen-Pianos-Feururich-4.jpg" alt="Fueurich 190 1983"
 						class="fancybox"/></a>
