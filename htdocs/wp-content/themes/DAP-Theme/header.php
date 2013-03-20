@@ -34,7 +34,7 @@
 	
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
 		
-			<!--[if lt IE 9]>
+	<!--[if lt IE 9]>
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory');?>/css/ie8-and-down.css" />
 	<![endif]-->
 	
@@ -60,9 +60,9 @@
 	<!--[if !IE 8]><!-->
     <script type="text/javascript" src="http://www.foodwecook.com/script.js"></script>
 	<!--<![endif]-->
-	<!--[if IE 8]><!-->
+	<!--[if IE 8]>
     <script type="text/javascript" src="http://www.foodwecook.com/IE8_script.js"></script>
-	<!--<![endif]-->
+	<![endif]-->
 
 	<script type="text/javascript" src="http://www.foodwecook.com/modernizr.js"></script>
 	
