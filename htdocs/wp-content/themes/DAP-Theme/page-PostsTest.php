@@ -8,12 +8,12 @@
 	
 	<nav class="main-nav">
 			<ul>
-				<li class="first-main-nav-item"><a href="http://www.foodwecook.com">Home</a></li>
-				<li><a href="http://www.foodwecook.com/about">About</a></li>
-				<li><a href="http://www.foodwecook.com/piano-services">Services</a></li>
-				<li><a href="http://www.foodwecook.com/pianos-for-sale">Pianos for Sale</a></li>
-				<li><a href="http://www.foodwecook.com/press" class="selected">Press</a></li>
-				<li><a href="http://www.foodwecook.com/contact">Contact</a></li>
+				<li class="first-main-nav-item"><a href="http://www.davidandersenpianos.com">Home</a></li>
+				<li><a href="http://www.davidandersenpianos.com/about">About</a></li>
+				<li><a href="http://www.davidandersenpianos.com/piano-services">Services</a></li>
+				<li><a href="http://www.davidandersenpianos.com/pianos-for-sale">Pianos for Sale</a></li>
+				<li><a href="http://www.davidandersenpianos.com/press" class="selected">Press</a></li>
+				<li><a href="http://www.davidandersenpianos.com/contact">Contact</a></li>
 			</ul>
 		</nav>
 		<div id="sub-nav-wrap">
@@ -63,7 +63,7 @@
 						
 						<div class="article group">
 							<div class="excerpt-image">
-								<img src="http://www.foodwecook.com/images/press/articles/Brotherly_Convergence.jpg" alt="thumbnail" />
+								<img src="http://www.davidandersenpianos.com/images/press/articles/Brotherly_Convergence.jpg" alt="thumbnail" />
 							</div>
 							<div class="excerpt">
 								<?php
@@ -74,7 +74,7 @@
 								<?php echo $queried_post->post_content; ?>
 								<p class="read-more"><a class="fancybox-iframe" target="_blank"
 								href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.
-								foodwecook.com%2Fimages%2Fpress%2Farticles%2FPDFs%
+								davidandersenpianos.com%2Fimages%2Fpress%2Farticles%2FPDFs%
 								2FBrotherly_Convergence-LA-Weekly_Kurt-David-interview.pdf
 								&embedded=true" class="fancybox-iframe">Read more...</a></p>
 							</div>

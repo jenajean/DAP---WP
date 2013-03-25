@@ -7,20 +7,20 @@
 
 		<nav class="main-nav">
 			<ul>
-				<li class="first-main-nav-item"><a href="http://www.foodwecook.com">Home</a></li>
-				<li><a href="http://www.foodwecook.com/about">About</a></li>
-				<li><a href="http://www.foodwecook.com/piano-services" class="selected">Services</a></li>
-				<li><a href="http://www.foodwecook.com/pianos-for-sale">Pianos for Sale</a></li>
-				<li><a href="http://www.foodwecook.com/press">Press</a></li>
-				<li><a href="http://www.foodwecook.com/contact">Contact</a></li>
+				<li class="first-main-nav-item"><a href="http://www.davidandersenpianos.com">Home</a></li>
+				<li><a href="http://www.davidandersenpianos.com/about">About</a></li>
+				<li><a href="http://www.davidandersenpianos.com/piano-services" class="selected">Services</a></li>
+				<li><a href="http://www.davidandersenpianos.com/pianos-for-sale">Pianos for Sale</a></li>
+				<li><a href="http://www.davidandersenpianos.com/press">Press</a></li>
+				<li><a href="http://www.davidandersenpianos.com/contact">Contact</a></li>
 			</ul>
 		</nav>
 		<div id="sub-nav-wrap">
 			<nav class="sub-nav piano-services-sub-nav">
 				<ul>
-					<li class="first-sub-nav-item"><a href="http://www.foodwecook.com/piano-services">Piano Services</a></li>
-					<li><a href="http://www.foodwecook.com/piano-services-custom-restoration">Custom Restoration</a></li>
-					<li><a href="http://www.foodwecook.com/piano-services-things-you-should-know" class="selected">Things you Should Know</a></li>
+					<li class="first-sub-nav-item"><a href="http://www.davidandersenpianos.com/piano-services">Piano Services</a></li>
+					<li><a href="http://www.davidandersenpianos.com/piano-services-custom-restoration">Custom Restoration</a></li>
+					<li><a href="http://www.davidandersenpianos.com/piano-services-things-you-should-know" class="selected">Things you Should Know</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -53,7 +53,7 @@
 				<div class="central-section-content">
 	
 					<div class="static-content group">
-						<img src="http://www.foodwecook.com/images/Things-you-should-know.jpg" alt="the Atelier"/>
+						<img src="http://www.davidandersenpianos.com/images/Things-you-should-know.jpg" alt="the Atelier"/>
 						<?php echo get_post_meta($post->ID, "piano-services-Things-you-should-know", true);?>
 					</div>
 					<div class="changing-content">

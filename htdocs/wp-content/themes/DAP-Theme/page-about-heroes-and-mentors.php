@@ -9,20 +9,20 @@
 
 <nav class="main-nav">
 			<ul>
-				<li class="first-main-nav-item"><a href="http://www.foodwecook.com">Home</a></li>
-				<li><a href="http://www.foodwecook.com/about" class="selected">About</a></li>
-				<li><a href="http://www.foodwecook.com/piano-services">Services</a></li>
-				<li><a href="http://www.foodwecook.com/pianos-for-sale">Pianos for Sale</a></li>
-				<li><a href="http://www.foodwecook.com/press">Press</a></li>
-				<li><a href="http://www.foodwecook.com/contact">Contact</a></li>
+				<li class="first-main-nav-item"><a href="http://www.davidandersenpianos.com">Home</a></li>
+				<li><a href="http://www.davidandersenpianos.com/about" class="selected">About</a></li>
+				<li><a href="http://www.davidandersenpianos.com/piano-services">Services</a></li>
+				<li><a href="http://www.davidandersenpianos.com/pianos-for-sale">Pianos for Sale</a></li>
+				<li><a href="http://www.davidandersenpianos.com/press">Press</a></li>
+				<li><a href="http://www.davidandersenpianos.com/contact">Contact</a></li>
 			</ul>
 		</nav>
 		<div id="sub-nav-wrap">
 			<nav class="sub-nav about-sub-nav">
 				<ul>
-					<li class="first-sub-nav-item"><a href="http://www.foodwecook.com/about">About Us</a></li>
-					<li><a href="http://www.foodwecook.com/about-heroes-and-mentors" class="selected">Heroes and Mentors</a></li>
-					<li><a href="http://www.foodwecook.com/about-what-people-say">What People Say</a></li>
+					<li class="first-sub-nav-item"><a href="http://www.davidandersenpianos.com/about">About Us</a></li>
+					<li><a href="http://www.davidandersenpianos.com/about-heroes-and-mentors" class="selected">Heroes and Mentors</a></li>
+					<li><a href="http://www.davidandersenpianos.com/about-what-people-say">What People Say</a></li>
 				</ul>
 			</nav>
 		</div>

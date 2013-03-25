@@ -6,7 +6,7 @@
 					
 						<h4>David Andersen Pianos is located</h4>
 						
-						<p>	on the West side of Los Angeles, CA
+						<p>	on the west side of Los Angeles, CA
 						<br />
 						Call to make an appointment to visit the showroom -  
 							<a href="tel:310-391-4360">(310) 391-4360</a>
@@ -14,11 +14,12 @@
 				</div>
 				
 				<div id="footer_right_side">
-					<h4>Ask us how:</h4>
+		
 					<p>
-						Artisanal, custom-built, WAY-better-than-new Steinway for 40% less.
+						Artisanal, custom-rebuilt vintage Steinways, significantly superior to and less expensive
+						than new models. Ask us how. 
 					</p>
-				</div>
+		</div>
 			</div>
 			
 			<div id="copyright"><p>&copy;<?php echo date("Y"); echo " "; bloginfo('name'); ?></p></div>

@@ -7,12 +7,12 @@
 
 		<nav class="main-nav">
 			<ul>
-				<li class="first-main-nav-item"><a href="http://www.foodwecook.com" class="selected">Home</a></li>
-				<li><a href="http://www.foodwecook.com/about">About</a></li>
-				<li><a href="http://www.foodwecook.com/piano-services">Services</a></li>
-				<li><a href="http://www.foodwecook.com/pianos-for-sale">Pianos for Sale</a></li>
-				<li><a href="http://www.foodwecook.com/press">Press</a></li>
-				<li><a href="http://www.foodwecook.com/contact">Contact</a></li>
+				<li class="first-main-nav-item"><a href="http://www.davidandersenpianos.com" class="selected">Home</a></li>
+				<li><a href="http://www.davidandersenpianos.com/about">About</a></li>
+				<li><a href="http://www.davidandersenpianos.com/piano-services">Services</a></li>
+				<li><a href="http://www.davidandersenpianos.com/pianos-for-sale">Pianos for Sale</a></li>
+				<li><a href="http://www.davidandersenpianos.com/press">Press</a></li>
+				<li><a href="http://www.davidandersenpianos.com/contact">Contact</a></li>
 			</ul>
 		</nav>
 		<div id="sub-nav-wrap">
@@ -30,7 +30,7 @@
 		<div id="dynamic-content">
 			<div class="side-nav-section">
 				<div class="side-nav">
-					<p>Artisanal, Custom-Built, WAY-better-than new Steinway for 40% less - <a>Ask us how.</a></p>
+					<p>Artisanal, custom-rebuilt vintage Steinways, significantly superior to and less expensive than new models. <br />Ask us how.</p>
 				</div>
 			</div>
 			<div class="central-section">
@@ -39,7 +39,7 @@
 					<img src="images/david-andersen-pianos-welcome-shot.png" alt="David Andersen" />
 					<h2>Home</h2>
 					<p>
-					WELCOME to our little corner of the fascinating world of pianos, piano
+					WELCOME to our corner of the fascinating world of pianos, piano
 					service, and custom, player-centered instrument restoration.
 					</p>
 				</div>

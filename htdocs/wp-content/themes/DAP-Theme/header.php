@@ -55,16 +55,16 @@
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<!-- TYPKIT ABOVE -->
 	
-	<script type="text/javascript" src="http://www.foodwecook.com/html5shiv.js"></script>
-	<script type="text/javascript" src="http://www.foodwecook.com/html5shiv-printshiv.js"></script>
+	<script type="text/javascript" src="http://www.davidandersenpianos.com/html5shiv.js"></script>
+	<script type="text/javascript" src="http://www.davidandersenpianos.com/html5shiv-printshiv.js"></script>
 	<!--[if !IE 8]><!-->
-    <script type="text/javascript" src="http://www.foodwecook.com/script.js"></script>
+    <script type="text/javascript" src="http://www.davidandersenpianos.com/script.js"></script>
 	<!--<![endif]-->
 	<!--[if IE 8]>
-    <script type="text/javascript" src="http://www.foodwecook.com/IE8_script.js"></script>
+    <script type="text/javascript" src="http://www.davidandersenpianos.com/IE8_script.js"></script>
 	<![endif]-->
 
-	<script type="text/javascript" src="http://www.foodwecook.com/modernizr.js"></script>
+	<script type="text/javascript" src="http://www.davidandersenpianos.com/modernizr.js"></script>
 	
 
 </head>
@@ -76,4 +76,4 @@
 	
 	<div class="top-background">
 	<div class="wrap">
-		<header><h1><a href="http://www.foodwecook.com">David Andersen Pianos</a></h1></header>
+		<header><h1><a href="http://www.davidandersenpianos.com">David Andersen Pianos</a></h1></header>
