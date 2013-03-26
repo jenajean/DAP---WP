@@ -8,7 +8,7 @@
 }
 .main-nav a.selected {
 	padding-bottom:30px;
-	background-image: url(http://www.foodwecook.com/images/dap-selected-graphic.png);
+	background-image: url(http://www.davidandersenpianos.com/images/dap-selected-graphic.png);
 	background-position:bottom center;
 	background-repeat: no-repeat;
 	min-width: 60px;
@@ -26,7 +26,7 @@
 	font-weight:normal;
 }
 .side-nav li a.selected {
-	background-image: url(http://www.foodwecook.com/images/dap-side-nav-selected.png);
+	background-image: url(http://www.davidandersenpianos.com/images/dap-side-nav-selected.png);
 	background-position: right center;
 	background-repeat: no-repeat;
 	padding-right: 20px;
@@ -40,7 +40,7 @@
 /* -----GENERAL STYLES/APPLIED THROUGHOUT----- */
 
 body {
-	background:black url(http://www.foodwecook.com/images/DAP-Background_1_sm.jpg) no-repeat;
+	background:black url(http://www.davidandersenpianos.com/images/DAP-Background_1_sm.jpg) no-repeat;
 	margin:0 auto;
 	background-position-y:115px;
 	height: auto !important;
@@ -146,12 +146,15 @@ padding-top:2em;
 }
 .main-nav ul, .main-nav li {
 	display:inline-block;
+	*display:inline;
+	zoom: 1;
 }
 .main-nav li {
 	list-style:none;
 	padding:0 20px;
 	border-left:1px solid black;
 	padding-top:.5em;
+	vertical-align:top; /* for ie7 and down */
 }
 .main-nav li a {
 	font-family: "myriad-pro-condensed";
@@ -177,6 +180,8 @@ padding-top:2em;
 }
 .sub-nav ul, .sub-nav li{
 	display:inline-block;
+	*display:inline;
+	zoom: 1;
 }
 .sub-nav li {
 	list-style:none;
@@ -403,7 +408,7 @@ aside {
 		height:85px;
 		padding: 5px 0;
 		margin-bottom: 10px;
-		background-image: url(http://www.foodwecook.com/images/listen-prompt-edit.png);
+		background-image: url(http://www.davidandersenpianos.com/images/listen-prompt-edit.png);
 		background-repeat:no-repeat;
 		background-size: 219px 84px;
 		

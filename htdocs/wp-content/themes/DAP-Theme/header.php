@@ -57,10 +57,13 @@
 	
 	<script type="text/javascript" src="http://www.davidandersenpianos.com/html5shiv.js"></script>
 	<script type="text/javascript" src="http://www.davidandersenpianos.com/html5shiv-printshiv.js"></script>
-	<!--[if !IE 8]><!-->
+	<!--[if gte IE 8]><!-->
     <script type="text/javascript" src="http://www.davidandersenpianos.com/script.js"></script>
 	<!--<![endif]-->
 	<!--[if IE 8]>
+    <script type="text/javascript" src="http://www.davidandersenpianos.com/IE8_script.js"></script>
+	<![endif]-->
+	<!--[if lt IE 8]>
     <script type="text/javascript" src="http://www.davidandersenpianos.com/IE8_script.js"></script>
 	<![endif]-->
 
