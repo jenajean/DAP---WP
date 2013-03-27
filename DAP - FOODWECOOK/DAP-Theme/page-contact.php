@@ -7,12 +7,12 @@
 		
 		<nav class="main-nav">
 			<ul>
-				<li class="first-main-nav-item"><a href="http://www.davidandersenpianos.com">Home</a></li>
-				<li><a href="http://www.davidandersenpianos.com/about">About</a></li>
-				<li><a href="http://www.davidandersenpianos.com/piano-services">Services</a></li>
-				<li><a href="http://www.davidandersenpianos.com/pianos-for-sale">Pianos for Sale</a></li>
-				<li><a href="http://www.davidandersenpianos.com/press">Press</a></li>
-				<li><a href="http://www.davidandersenpianos.com/contact" class="selected">Contact</a></li>
+				<li class="first-main-nav-item"><a href="http://www.foodwecook.com">Home</a></li>
+				<li><a href="http://www.foodwecook.com/about">About</a></li>
+				<li><a href="http://www.foodwecook.com/piano-services">Services</a></li>
+				<li><a href="http://www.foodwecook.com/pianos-for-sale">Pianos for Sale</a></li>
+				<li><a href="http://www.foodwecook.com/press">Press</a></li>
+				<li><a href="http://www.foodwecook.com/contact" class="selected">Contact</a></li>
 			</ul>
 		</nav>
 		<div id="sub-nav-wrap">
@@ -35,7 +35,7 @@
 			<div class="central-section">
 				<div class="central-section-content">
 					<div class="static-content group" id="static-content-contact">
-						<img id="static-content-contact-img" src="http://www.davidandersenpianos.com/images/David-Andersen-Pianos_Atelier-Panorama.jpg" alt="David-Andersen-Pianos_Atelier-Panorama" />
+						<img id="static-content-contact-img" src="http://www.foodwecook.com/images/David-Andersen-Pianos_Atelier-Panorama.jpg" alt="David-Andersen-Pianos_Atelier-Panorama" />
 						<h2></h2>
 					</div><!-- end static -->
 					<div class="changing-content">
