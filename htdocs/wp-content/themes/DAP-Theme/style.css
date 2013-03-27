@@ -354,7 +354,15 @@ padding-top:2em;
 		height:auto;
 		float:none;
 	}
-	
+	.contact-info{
+		margin-left:30px;
+	}
+	.location {
+		margin-top:50px;
+	}
+	#contact-header {
+		padding:.5em 1.5em;
+	}
 .read-more a {
 	color: rgb(70, 136, 189);
 }
@@ -500,6 +508,10 @@ footer p, footer h4, footer span {
 	width:400px;
 	float:left;
 }
+#footer_right_side p{
+	margin-top: 15px;
+}
+
 #footer_right_side {
 	color:rgb(192, 190, 187);
 	width:400px;

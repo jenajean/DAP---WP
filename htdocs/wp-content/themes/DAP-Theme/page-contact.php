@@ -40,7 +40,7 @@
 					</div><!-- end static -->
 					<div class="changing-content">
 						<div id="contact" class="selected">
-							<h3>
+							<h3 id="contact-header">
 								We're always here when you need us; always eager to hear from you and help you - a reply is guaranteed.
 							</h3>
 							<p>
@@ -50,14 +50,14 @@
 								e-mail: 
 								<br />	
 							</p>
-							<p>
+							<p class="contact-info">
 								<a href="tel:310-391-4360">(310) 391-4360</a>
 							</p>
-                            <p>
+                            <p class="contact-info">
                             	<a href="mailto:david@davidandersenpianos.com,jaye@davidandersenpianos.com">david@davidandersenpianos.com</a>
                             </p>
 									
-							<p>
+							<p class="location">
 								Office and Showroom:<br />
 								The Atelier<br />
 								Mar Vista, CA 90066<br />
