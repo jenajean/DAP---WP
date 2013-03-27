@@ -360,39 +360,7 @@ padding-top:2em;
 }
 
 
-/* FORM BELOW */
 
-.form-headers {
-font-weight: normal;
-font-family: "myriad-pro";
-vertical-align: top;
-width: 78px;
-display: inline-block;
-
-}
-
-#contact_form {
-margin: 0 auto;
-width: 300px;
-padding-top: 15px;
-}
-
-#button-wrapper {
-	margin:0 auto;
-	width: 300px;
-	text-align:center;
-
-}
-.button {
-	display:inline;
-}
-
-#contact h3{
-padding:1.5em 1.5em 0 1.5em;
-text-transform:none;
-}
-/* FORM ABOVE */
-	
 aside {
 	margin-top:2em;
 	float:right;

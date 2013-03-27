@@ -48,45 +48,20 @@
 								<br />
 								You can always reach us by telephone or
 								e-mail: 
-								<br />
-								
-							
-								
+								<br />	
 							</p>
-							<div id="contact_form">
-<!-- 
-								<div class="contact-description">
-									<p>To get a rate quote, or just find out more about our work just drop us a note!</p>
-								</div>
- -->
-
-								<form action="contact.php" method="post">
-									<span class="form-headers">Your name</span>
-									<input class='field' type="text" name="cf_name">
-									<br/>
-					
-									<span class="form-headers">Your e-mail</span>
-									<input class='field' type="text" name="cf_email">
-									<br/>
-									
-									<span class="form-headers">Message</span>
-									<textarea name="cf_message"></textarea>
-									<br/>
-									<div id="button-wrapper">
-										<input class="button" type="submit" value="Send">
-										<input class="button" type="reset" value="Clear">
-									</div>
-								</form>
-								
-							</div>
+							<p>
+								<a href="tel:310-391-4360">(310) 391-4360</a>
+							</p>
+                            <p>
+                            	<a href="mailto:david@davidandersenpianos.com,jaye@davidandersenpianos.com">david@davidandersenpianos.com</a>
+                            </p>
 									
 							<p>
 								Office and Showroom:<br />
 								The Atelier<br />
 								Mar Vista, CA 90066<br />
-								<br />
-								<a href="tel:310-391-4360">(310) 391-4360</a>
-								<br />
+								
 							</p>
 						</div>
 					</div><!-- end changing -->
