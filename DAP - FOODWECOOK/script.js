@@ -57,6 +57,7 @@ $(function() {
 	       		 history.pushState(null, null, _link);
 	       		 $("body").addClass("historypushed");
 	       	}
+	   
 	        return false;
 	    });
 	    
@@ -88,6 +89,7 @@ $(function() {
 	                        $dynamicContentWrap.fadeIn(100, function() {
 	                            //hide the extra tabbed content
 	    						hideTabs();
+	    						$(document).trigger('gform_post_render');
 	                        });//end fadeIn
 	                    });//end load
 	                });//end fadeOut

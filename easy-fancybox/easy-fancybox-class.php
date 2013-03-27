@@ -494,7 +494,7 @@ class easyFancyBox {
 			return;
 		echo '
 <script type="text/javascript">
-jQuery(document).on(\'ready gform_post_render load\', easy_fancybox_handler );
+jQuery(document).on(\'ready gform_post_render\', easy_fancybox_handler );
 </script>
 ';
 	}

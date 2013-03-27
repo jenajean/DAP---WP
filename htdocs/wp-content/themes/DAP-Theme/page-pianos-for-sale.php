@@ -44,6 +44,7 @@
 				<div class="central-section-content">
 	
 				<div class="static-content group">
+
 						<?php echo get_post_meta($post->ID, "pianos-for-sale", true);?>
 				</div>
 				
@@ -58,6 +59,8 @@
 				
 					<div id="Fueurich-190-1983" class="group">
 						<?php echo get_post_meta($post->ID, "Fueurich-190-1983", true);?>
+								
+
 						
 						<a class="fancybox"
 						href='http://www.davidandersenpianos.com/images/Pianos-for-Sale/Feururich/
