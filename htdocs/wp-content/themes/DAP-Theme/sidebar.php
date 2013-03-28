@@ -5,7 +5,7 @@
 	<div class="audio-section">
 		<div class="listen-prompt group">
 			<h2>Listen!</h2>
-			<a class="fancybox-iframe" href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.foodwecook.com%2Fimages%2Ftech-specs.pdf&embedded=true">technical specifications</a>		</div>
+			<a class="fancybox-iframe" href="http://docs.google.com/viewer?url=http%3A%2F%2Fwww.foodwecook.com%2Fimages%2Ftech-specs.pdf&embedded=true">piano & recording info</a>		</div>
 		<div class="audio-player">
 				<?php $recent = new WP_Query("page_id=424"); while($recent->have_posts())
 				: $recent->the_post();?>
